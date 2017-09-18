@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <estado sigla='AC' codigo="01">Acre</estado>
+    <estado sigla='AL' codigo="02">Alagoas</estado>
+    <estado sigla='AM' codigo="03">Amazonas</estado>
+    <estado sigla='AP' codigo="04">Amapá</estado>
+    <estado sigla='BA' codigo="05">Bahia</estado>
+    <estado sigla='CE' codigo="06">Ceará</estado>
+    <estado sigla='DF' codigo="07">Distrito Federal</estado>
+    <estado sigla='ES' codigo="08">Espírito Santo</estado>
+    <estado sigla='GO' codigo="09">Goiás</estado>
+    <estado sigla='MA' codigo="10">Maranhão</estado>
+    <estado sigla='MG' codigo="11">Minas Gerais</estado>
+    <estado sigla='MS' codigo="12">Mato Grosso do Sul</estado>    
+    <estado sigla='MT' codigo="13">Mato Grosso</estado>    
+    <estado sigla='PA' codigo="14">Pará</estado>
+    <estado sigla='PB' codigo="15">Paraíba</estado>
+    <estado sigla='PE' codigo="16">Pernambuco</estado>
+    <estado sigla='PI' codigo="17">Piauí</estado>
+    <estado sigla='PR' codigo="18">Paraná</estado>    
+    <estado sigla='RJ' codigo="19">Rio de Janeiro</estado>
+    <estado sigla='RN' codigo="20">Rio Grande do Norte</estado>
+    <estado sigla='RO' codigo="21">Rondônia</estado>
+    <estado sigla='RR' codigo="22">Roraima</estado>
+    <estado sigla='RS' codigo="23">Rio Grande do Sul</estado>    
+    <estado sigla='SC' codigo="24">Santa Catarina</estado>
+    <estado sigla='SE' codigo="25">Sergipe</estado>
+    <estado sigla='SP' codigo="26">São Paulo</estado>
+    <estado sigla='TO' codigo="27">Tocantins</estado>
+</root>

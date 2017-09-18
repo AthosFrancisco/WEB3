@@ -1,0 +1,42 @@
+table {
+    margin: 0 auto;
+}
+form {
+    text-align: center;
+}
+td {
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.blocked, .flag {
+    background: radial-gradient(lightgray, gray);
+}
+.n1, .n2, .n3, .n4, .n5, .n6, .n7, .n8, .blank, .bomb {
+    background-color: white;
+}
+.n1 {
+    color: blue;
+}
+.n2 {
+    color: red;
+}
+.n3 {
+    color: maroon;
+}
+.n4 {
+    color: pink;
+}
+.n5 {
+    color: green;
+}
+.n6 {
+    color: magenta;
+}
+.n7 {
+    color: indigo;
+}
+.n8 {
+    color: olive;
+}
