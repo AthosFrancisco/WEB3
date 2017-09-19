@@ -16,7 +16,7 @@
         <form>
             <select id="estados">
             </select>
-            <select id="cidades"        >
+            <select id="cidades">
             </select>
         </form>
     </body>
